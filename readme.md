@@ -1,4 +1,4 @@
-# Kirby CDN Plugin
+# Kirby 2 CDN Plugin
 
 This plugin will rewrite all URLs to assets, files in the content folder and thumbnails to direct to a CDN. 
 
